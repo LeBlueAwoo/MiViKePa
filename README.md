@@ -1,5 +1,5 @@
 # MiViKePa
- Mini Virtual KeyPad - a simple, yet effective script that doubles as a passcode protection module for Python programs
+Mini Virtual KeyPad - a simple, yet effective script that doubles as a passcode protection module for Python programs
  
  ~
 
@@ -10,4 +10,4 @@ To view and change the passcode, simply edit the contents of "code.txt".
 'var.txt' contains the active variables and is not supposed to be read. If deleted, simply replace it with a blank text file called 'var.txt'.
 This will not affect how the program functions unless edited/deleted while it is running.
 
-For best results, don't run this program from inside IDLE.
+For best results, please don't run these programs from within IDLE!
