@@ -1,5 +1,5 @@
 # MiViKePa
-Mini Virtual KeyPad - a simple, yet effective script that doubles as a passcode protection module for Python programs
+Mini Virtual KeyPad - a simple, yet effective script that doubles as a passcode protection module for Python programs (and potentially others)
  
  ~
 
